@@ -8,8 +8,10 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "highlight.js": "^9.15.6",
     "vue": "^2.6.6",
-    "vue-router": "^3.0.1"
+    "vue-router": "^3.0.1",
+    "vuejs-vr": "^1.1.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.5.0",
